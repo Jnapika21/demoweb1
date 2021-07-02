@@ -8,7 +8,7 @@ if(num>50)
 	out.println(num+" is greater than 50");
 else
 	out.println(num+" is less then 50");
-   out.println("new change 4");
+   out.println("new change 5");
 %>
 </body>
 </html>
